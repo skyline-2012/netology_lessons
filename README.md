@@ -1,2 +1,3 @@
 # netology_lessons
-devops
+devops lesson for git
+
